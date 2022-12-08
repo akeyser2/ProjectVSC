@@ -1,0 +1,105 @@
+﻿ID,Gamemode,Result,Length (min),Roll,Champion,KDA,KP (%),CS,Average Rank
+0,Normal,Defeat,36.78333333,Jungle,Mordekaiser,3.17,40,173,Gold 2
+1,Normal,Defeat,34.73333333,Jungle,Cho'Gath,2.17,46,177,Platinum 4
+2,Normal,Victory,33,Jungle,Sion,2.88,56,137,Gold 2
+3,Normal,Victory,38.41666667,Jungle,Mordekaiser,9.33,56,281,Gold 3
+4,Normal,Defeat,40.5,Middle,Vayne,1.6,33,266,Silver 2
+5,Normal,Remake,1.75,Top,Akali,0,0,0,Silver 2
+6,Normal,Defeat,22.71666667,Jungle,Lillia,0.33,22,128,Silver 2
+7,Normal,Defeat,32.975,Jungle,Nasus,1.17,26,143,Gold 4
+8,Normal,Defeat,41.11666667,Support,Kayle,3,50,128,Gold 2
+9,Normal,Defeat,41.1,Jungle,Mordekaiser,6.25,63,231,Silver 2
+10,Normal,Victory,16.03333333,Jungle,Mordekaiser,12,57,95,Silver 1
+11,Normal,Defeat,32.98333333,Support,Kled,0.83,25,41,Gold 4
+12,Normal,Defeat,38.48333333,Middle,Kayle,1.2,40,378,Gold 3
+13,ARAM,Victory,29.13333333,N/A,Lissandra,2.2,53,60,Gold 2
+14,Normal,Victory,31.71666667,Jungle,Mordekaiser,8.33,56,190,Gold 3
+15,Normal,Defeat,24.86666667,Jungle,Fiddlesticks,1.29,53,117,Gold 2
+16,Normal,Defeat,29.28333333,Middle,Yone,0.31,20,127,Gold 3
+17,Normal,Defeat,35.11666667,Top,Akali,5.33,44,185,Gold 3
+18,Normal,Victory,29.01666667,Top,K'Sante,1.67,14,188,Gold 3
+19,Normal,Victory,40.13333333,Top,Bel'Veth,1.5,38,208,Gold 2
+20,Normal,Victory,31.95,Top,Teemo,0.6,10,204,Gold 2
+21,Normal,Defeat,22.16666667,Jungle,Kindred,1.14,53,93,Silver 3
+22,Normal,Victory,42.96666667,Top,Akali,2.56,37,189,Silver 3
+23,Normal,Defeat,17.63333333,Middle,Yone,0.5,25,100,Gold 3
+24,Normal,Victory,24.1,Support,Ornn,7,47,52,Gold 3
+25,ARAM,Victory,14.65,N/A,Cho'Gath,10,70,36,Silver 2
+26,Normal,Victory,39.68333333,Jungle,Nunu,6,61,185,Gold 3
+27,Normal,Victory,15.25,Jungle,Bel'Veth,9,45,77,Gold 3
+28,Normal,Victory,20.08333333,Jungle,Ornn,8,33,135,Gold 3
+29,Normal,Defeat,33.95,Top,Akali,2.75,65,174,Bronze 1
+30,Normal,Defeat,50.33333333,Jungle,Vi,2.5,36,339,Gold 4
+31,Normal,Victory,24.4,Middle,Lissandra,2,59,120,Gold 1
+32,Normal,Defeat,29.03333333,Middle,Akali,1.67,58,153,Silver 3
+33,Normal,Victory,30.11666667,Top,Akali,3.17,49,153,Silver 3
+34,Normal,Victory,31.9,Middle,Akali,17,37,172,Silver 4
+35,Normal,Defeat,30.18333333,Middle,Akali,3.5,50,164,Silver 3
+36,Normal,Victory,26.28333333,Top,Akali,13,37,160,Silver 3
+37,Normal,Victory,26.46666667,Top,Akali,2,29,141,Bronze 1
+38,Normal,Defeat,24.46666667,Jungle,Urgot,0.4,31,105,Silver 1
+39,ARAM,Defeat,27.6,N/A,Twitch,2.75,63,64,Silver 1
+40,ARAM,Defeat,13.66666667,N/A,Sett,1.75,74,10,Silver 1
+41,Normal,Defeat,22.21666667,Jungle,Lillia,2,29,134,Gold 3
+42,Normal,Defeat,46.15,Support,Kog'Maw,3.83,62,102,Gold 4
+43,Normal,Victory,20.43333333,Middle,Akali,1,17,126,Gold 4
+44,Normal,Victory,25.55,Support,Tahm Kench,8,50,48,Gold 2
+45,Normal,Victory,31.06666667,Middle,Akali,7,40,171,Gold 3
+46,Normal,Victory,11.01666667,ADC,Kayle,2,40,76,Gold 2
+47,ARAM,Defeat,27.2,N/A,Ryze,3.36,66,107,Gold 3
+48,ARAM,Defeat,27.73333333,N/A,Cho'Gath,3,55,88,Gold 1
+49,Normal,Victory,31.41666667,Middle,Asol,4.83,62,88,Gold 4
+50,ARAM,Victory,18.1,N/A,Akali,2,53,36,Gold 3
+51,Normal,Victory,15.25,Jungle,Urgot,5,26,80,Gold 3
+52,Normal,Victory,30.78333333,Middle,Akali,3.75,37,217,Gold 4
+53,Normal,Victory,21.9,Middle,Akali,11,52,128,Bronze 1
+54,Normal,Defeat,32.28333333,Middle,Akali,4,55,191,Silver 3
+55,ARAM,Victory,19.2,N/A,Dr. Mundo,2,45,38,Gold 4
+56,Normal,Victory,23.2,Top,Akali,8,38,164,Bronze 1
+57,Normal,Defeat,27.6,Middle,Akali,1.2,43,168,Silver 4
+58,Normal,Defeat,47.7,Top,Kog'Maw,0.91,24,284,Gold 3
+59,Normal,Remake,3.25,Jungle,Bel'Veth,2,100,12,Gold 3
+60,ARAM,Victory,19.05,N/A,Rek'Sai,2.33,40,16,Gold 3
+61,Normal,Victory,38.96666667,Middle,Akali,2.14,47,188,Gold 4
+62,Normal,Victory,27.6,Top,Akali,4.67,35,172,Silver 3
+63,Normal,Victory,31.88333333,Middle,Akali,11.5,59,160,Silver 3
+64,Normal,Victory,29.66666667,Top,Akali,11,51,152,Silver 4
+65,Normal,Defeat,24.06666667,Top,Akali,0.6,27,151,Silver 4
+66,Normal,Defeat,20.85,Top,Akali,1.67,38,109,Silver 4
+67,Normal,Defeat,28.25,Middle,Akali,1.67,48,117,Silver 4
+68,Normal,Defeat,39.26666667,Middle,Akali,2.63,51,161,Bronze 1
+69,Normal,Defeat,15.91666667,Top,Akali,1,100,101,Bronze 1
+70,ARAM,Defeat,22.81666667,N/A,Rek'Sai,3.27,62,45,Gold 4
+71,Normal,Victory,20.38333333,Top,Akali,6,23,144,Silver 4
+72,Normal,Defeat,26.5,Top,Akali,0.67,24,128,Silver 3
+73,Normal,Defeat,32.18333333,Jungle,Tahm Kench,2.14,58,104,Gold 3
+74,Normal,Victory,29.7,Jungle,Sion,7,40,180,Gold 4
+75,Normal,Victory,27.63333333,Jungle,Lillia,4.33,42,153,Gold 4
+76,Normal,Victory,34.4,Jungle,Mordekaiser,2.63,53,169,Silver 3
+77,Normal,Defeat,34.5,Jungle,Fiddlesticks,1,30,162,Silver 2
+78,Normal,Defeat,20.71666667,Middle,Akali,0.82,60,107,Bronze 1
+79,ARAM,Victory,13.33333333,N/A,Nasus,7.5,77,36,Gold 4
+80,Normal,Victory,18.98333333,Middle,Akali,3.33,33,89,Silver 2
+81,Normal,Defeat,39.56666667,ADC,Vayne,2,46,212,Gold 4
+82,Normal,Defeat,29.93333333,Middle,Teemo,0.45,16,195,Gold 4
+83,Normal,Victory,17.21666667,Middle,Ekko,3,30,73,Gold 2
+84,Normal,Victory,22.53333333,Jungle,Urgot,13,39,141,Silver 2
+85,Normal,Victory,26.4,Middle,Tahm Kench,3,53,101,Silver 2
+86,Normal,Victory,26.2,ADC,Dr. Mundo,10,50,136,Silver 2
+87,Normal,Defeat,33.18333333,Middle,Zeri,2.5,54,159,Gold 3
+88,Normal,Victory,21.16666667,Middle,Vayne,2,23,113,Silver 4
+89,Normal,Defeat,23.1,Jungle,Warwick,0.8,40,129,Silver 4
+90,Normal,Defeat,28.73333333,ADC,Vayne,4.6,72,146,Bronze 1
+91,Normal,Victory,24.61666667,ADC,Vayne,9,29,131,Silver 4
+92,Normal,Victory,12.58333333,ADC,Vayne,6,46,88,Silver 3
+93,Normal,Victory,22.2,Middle,Tahm Kench,11,28,86,Silver 3
+94,Normal,Defeat,35.86666667,Top,Bel'Veth,4,41,200,Silver 4
+95,Normal,Defeat,28.38333333,Middle,Kayle,1,33,220,Silver 1
+96,Normal,Defeat,34,Middle,Tahm Kench,1.4,41,204,Gold 3
+97,Normal,Defeat,29.7,Jungle,Sion,1.29,38,167,Silver 3
+98,Normal,Defeat,29.45,ADC,Kayle,0.78,50,197,Gold 3
+99,Normal,Defeat,37.6,Jungle,Tahm Kench,1.88,60,180,Gold 4
+100,Normal,Defeat,22.53333333,Jungle,Bel'Veth,1.5,30,120,Platinum 3
+101,Normal,Victory,38.4,Middle,Kayle,6,50,275,Gold 3
+102,Normal,Victory,34.83333333,Middle,Tahm Kench,25,50,147,Gold 4
+
