@@ -181,7 +181,7 @@ def akaliHypo(games_df):
 
     akali_kda = akali_df["KDA"]
 
-    t = (akali_kda.mean() - 3)/(akali_kda.std()/math.sqrt(len(akali_kda)))
+    t = (akali_kda.mean() - 2.31)/(akali_kda.std()/math.sqrt(len(akali_kda)))
     print("t-computed =", t)
 
     print("\nAverage KDA of Akalis: ", akali_df["Avg KDA of Champ"].mean())
